@@ -1,0 +1,23 @@
+{
+  "name": "8-angular-practice",
+  "version": "1.0.0",
+  "description": "Just some practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrycann/angular-practice-8.git"
+  },
+  "keywords": [
+    "angular",
+    "practice"
+  ],
+  "author": "Barry Cann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrycann/angular-practice-8/issues"
+  },
+  "homepage": "https://github.com/barrycann/angular-practice-8#readme"
+}
